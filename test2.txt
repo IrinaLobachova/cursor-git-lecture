@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 new file
 djkfkjf dkfjkfj
 jdkjf
 dkfldfk
+=======
+djhfjdhf
+lfkdfk
+>>>>>>> master
